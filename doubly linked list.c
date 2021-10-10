@@ -1,3 +1,7 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
 typedef struct node {
 	char data[50];
 	struct node* next;
